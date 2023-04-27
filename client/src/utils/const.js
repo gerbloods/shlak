@@ -1,0 +1,6 @@
+export const ADMIN_ROUTE = '/admin'
+export const LOGIN_ROUTE = '/login'
+export const PERSONAL_ROUTE = '/account'
+export const MAIN_ROUTE = '/main'
+export const AUTH_ROUTE = '/authenticate'
+export const REG_ROUTE = '/registration'
